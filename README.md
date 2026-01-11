@@ -1,32 +1,71 @@
-# Calculator for Android and IOS
-I have made a Calculator app for mobile phones.
-## It includes these 
+# 📱 GraphiCalc – All-in-One Calculator App
 
-1) Standard or Metric Calculator
-2) Scientific Calculator
-3) Graphing Calculator
-4) Conversions
-5) BMI-Calculator
-6) Length Converter
-7) Temperature Converter
-8) Ratio Calculations
-9) GST Calculator
+GraphiCalc is a powerful and versatile calculator app built with **Flutter**, designed for both **Android** and **iOS**.  
+It combines simplicity with advanced features, making it the perfect tool for students, professionals, and everyday users.
 
-I will include more features like Currency Conversions, Area, Volume , etc.
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔢 **Standard / Metric Calculator** – Perform basic arithmetic with ease  
+- 🧮 **Scientific Calculator** – Advanced functions for complex calculations  
+- 📈 **Graphing Calculator** – Plot and visualize mathematical functions  
+- 🔄 **Conversions** – Quick unit conversions across multiple categories  
+- ⚖️ **BMI Calculator** – Track and calculate Body Mass Index  
+- 📏 **Length Converter** – Convert between different length units  
+- 🌡️ **Temperature Converter** – Celsius, Fahrenheit, Kelvin, and more  
+- 📊 **Ratio Calculations** – Simplify and solve ratio problems  
+- 💰 **GST Calculator** – Calculate Goods & Services Tax instantly  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🚀 Upcoming Features
+- 💱 Currency Conversions  
+- 📐 Area & Volume Calculations  
+- ➕ More converters and specialized tools  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Getting Started
+
+This project is a starting point for a **Flutter application**.  
+
+If you’re new to Flutter, here are some helpful resources:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)  
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)  
+- [Flutter Documentation](https://docs.flutter.dev/) – Tutorials, samples, and API reference  
+
+---
+
+## 📸 Screenshots
+
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/a38cab55-25f2-49fc-a521-79e253f8a8f1" />
+
+<img width="526" height="1023" alt="image" src="https://github.com/user-attachments/assets/94c7b876-b47e-4a3f-8e5a-43ec9c554024" />
+
+![WhatsApp Image 2026-01-11 at 9 34 14 PM](https://github.com/user-attachments/assets/e9761655-ef0b-4ad8-9d04-8c78dbf000b1)
+
+<img width="533" height="1012" alt="image" src="https://github.com/user-attachments/assets/4802e550-b1cd-4e22-a00d-609c18840931" />
+
+<img width="510" height="1025" alt="image" src="https://github.com/user-attachments/assets/3f6d361a-8d71-45be-a493-a8548f0d7dd4" />
+
+<img width="517" height="1021" alt="image" src="https://github.com/user-attachments/assets/e6a7aa22-dc4f-4bc8-99f8-f781d46be3b1" />
+
+<img width="513" height="1022" alt="image" src="https://github.com/user-attachments/assets/93c6a5af-a48b-4b06-ba60-ce880ed2f20e" />
 
 
 
+
+
+---
+
+## 📦 Installation
+
+Clone the repository and run the app locally:
+
+```bash
+git clone https://github.com/your-username/GraphiCalc.git
+cd GraphiCalc
+flutter pub get
+flutter run
 
 
