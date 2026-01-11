@@ -10,7 +10,7 @@ I have made a Calculator app for mobile phones.
 7) Temperature Converter
 8) Ratio Calculations
 
-I will include more features like Temperature Conversions, Currency Conversions, Area, Volume , etc.
+I will include more features like Currency Conversions, Area, Volume , etc.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -23,6 +23,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
 
