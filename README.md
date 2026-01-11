@@ -38,21 +38,35 @@ If you’re new to Flutter, here are some helpful resources:
 
 ## 📸 Screenshots
 
-<img width="300" height="1020" alt="image" src="https://github.com/user-attachments/assets/a38cab55-25f2-49fc-a521-79e253f8a8f1" />
+## 📸 Screenshots
 
-<img width="300" height="1023" alt="image" src="https://github.com/user-attachments/assets/94c7b876-b47e-4a3f-8e5a-43ec9c554024" />
+<p>
+  <img width="250" height="500" alt="Screenshot 1" src="https://github.com/user-attachments/assets/55809a5f-b2de-4b2e-8477-18d2913ceea6" />
+</p>
 
-![WhatsApp Image 2026-01-11 at 9 34 14 PM](https://github.com/user-attachments/assets/e9761655-ef0b-4ad8-9d04-8c78dbf000b1)
+<p>
+  <img width="250" alt="Screenshot 2" src="https://github.com/user-attachments/assets/94c7b876-b47e-4a3f-8e5a-43ec9c554024" />
+</p>
 
-<img width="300" height="1012" alt="image" src="https://github.com/user-attachments/assets/4802e550-b1cd-4e22-a00d-609c18840931" />
+<p>
+  <img width="250" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e9761655-ef0b-4ad8-9d04-8c78dbf000b1" />
+</p>
 
-<img width="300" height="1025" alt="image" src="https://github.com/user-attachments/assets/3f6d361a-8d71-45be-a493-a8548f0d7dd4" />
+<p>
+  <img width="250" alt="Screenshot 4" src="https://github.com/user-attachments/assets/4802e550-b1cd-4e22-a00d-609c18840931" />
+</p>
 
-<img width="300" height="1021" alt="image" src="https://github.com/user-attachments/assets/e6a7aa22-dc4f-4bc8-99f8-f781d46be3b1" />
+<p>
+  <img width="250" alt="Screenshot 5" src="https://github.com/user-attachments/assets/3f6d361a-8d71-45be-a493-a8548f0d7dd4" />
+</p>
 
-<img width="300" height="1022" alt="image" src="https://github.com/user-attachments/assets/93c6a5af-a48b-4b06-ba60-ce880ed2f20e" />
+<p>
+  <img width="250" alt="Screenshot 6" src="https://github.com/user-attachments/assets/e6a7aa22-dc4f-4bc8-99f8-f781d46be3b1" />
+</p>
 
-
+<p>
+  <img width="250" alt="Screenshot 7" src="https://github.com/user-attachments/assets/93c6a5af-a48b-4b06-ba60-ce880ed2f20e" />
+</p>
 
 
 
@@ -67,6 +81,7 @@ git clone https://github.com/your-username/GraphiCalc.git
 cd GraphiCalc
 flutter pub get
 flutter run
+
 
 
 
