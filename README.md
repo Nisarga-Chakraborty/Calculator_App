@@ -7,6 +7,8 @@ I have made a Calculator app for mobile phones.
 4) Conversions
 5) BMI-Calculator
 6) Length Converter
+7) Temperature Converter
+8) Ratio Calculations
 
 I will include more features like Temperature Conversions, Currency Conversions, Area, Volume , etc.
 ## Getting Started
@@ -21,5 +23,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
