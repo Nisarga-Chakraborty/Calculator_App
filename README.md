@@ -9,7 +9,7 @@ It combines simplicity with advanced features, making it the perfect tool for st
 
 - 🔢 **Standard / Metric Calculator** – Perform basic arithmetic with ease  
 - 🧮 **Scientific Calculator** – Advanced functions for complex calculations  
-- 📈 **Graphing Calculator** – Plot and visualize mathematical functions  
+- 📈 **Graphing Calculator** – Plot and visualize mathematical functions (POWERED BY DESMOS)
 - 🔄 **Conversions** – Quick unit conversions across multiple categories  
 - ⚖️ **BMI Calculator** – Track and calculate Body Mass Index  
 - 📏 **Length Converter** – Convert between different length units  
@@ -81,6 +81,7 @@ git clone https://github.com/your-username/GraphiCalc.git
 cd GraphiCalc
 flutter pub get
 flutter run
+
 
 
 
